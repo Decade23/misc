@@ -8,3 +8,5 @@ alias koki-id='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki_id/k
 alias koki-merchant='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki-app-merchant'
 alias dori='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki_id/dori_scm'
 alias me='cd ~/DediF/projects/me'
+
+alias git-cp="git add . && git commit -m 'update' && git push "
