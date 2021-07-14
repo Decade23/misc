@@ -1,0 +1,10 @@
+alias artisan="php artisan"
+alias tinker="php artisan tinker"
+alias eci='cd ~/DediF/projects/me/sidejob/expert_club_indonesia'
+alias salmon='cd ~/DediF/projects/office/koki/code/projects/fullstack/salmon'
+alias next-machiato='cd ~/DediF/projects/office/koki/code/projects/client/koki-machiato'
+alias koki-machiato='cd ~/DediF/projects/office/koki/code/projects/client/macchiato_html_remote'
+alias koki-id='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki_id/koki-id'
+alias koki-merchant='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki-app-merchant'
+alias dori='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki_id/dori_scm'
+alias me='cd ~/DediF/projects/me'
