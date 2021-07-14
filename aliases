@@ -1,12 +1,24 @@
+# laravel
 alias artisan="php artisan"
 alias tinker="php artisan tinker"
+
+# eci
 alias eci='cd ~/DediF/projects/me/sidejob/expert_club_indonesia'
+alias eci-wp='cd ~/DediF/projects/me/sidejob/expert_club_indonesia/data && ssh -i eci-backup-member-area.pem ubuntu@54.179.247.230'
+alias eci-bm='cd ~/DediF/projects/me/sidejob/expert_club_indonesia/data && ssh -i businessconsultingcorp.pem ubuntu@13.228.137.187'
+
+# koki
 alias salmon='cd ~/DediF/projects/office/koki/code/projects/fullstack/salmon'
 alias next-machiato='cd ~/DediF/projects/office/koki/code/projects/client/koki-machiato'
 alias koki-machiato='cd ~/DediF/projects/office/koki/code/projects/client/macchiato_html_remote'
 alias koki-id='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki_id/koki-id'
 alias koki-merchant='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki-app-merchant'
 alias dori='cd ~/DediF/projects/office/koki/code/projects/fullstack/koki_id/dori_scm'
+
+alias koki-con-prod='ssh ubuntu@bastion.koki.id -L 3306:koki-rds-mysql-dev.ciyrd0cgri1c.ap-southeast-1.rds.amazonaws.com:3306'
+
+# me
 alias me='cd ~/DediF/projects/me'
 
-alias git-cp="git add . && git commit -m 'update' && git push "
+# git
+alias git-cp="git add . && git commit -m 'update' && git push " 
